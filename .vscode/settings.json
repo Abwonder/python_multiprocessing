@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQLfirstproject",
+            "database": "Abioye1",
+            "username": "root",
+            "password": "INFINITYgod63@"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "abc",
+            "password": "password",
+            "database": "Connection database",
+            "name": "mysql-connection"
+        }
+    ]
+}
